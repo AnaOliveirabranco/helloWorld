@@ -1,0 +1,8 @@
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\bin\Debug\HelloW.exe.config
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\bin\Debug\HelloW.exe
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\bin\Debug\HelloW.pdb
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\obj\Debug\HelloW.csproj.AssemblyReference.cache
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\obj\Debug\HelloW.csproj.SuggestedBindingRedirects.cache
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\obj\Debug\HelloW.csproj.CoreCompileInputs.cache
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\obj\Debug\HelloW.exe
+C:\CursoVS04_22\Csharp\P1\helloworld\HelloW\obj\Debug\HelloW.pdb
