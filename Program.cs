@@ -9,10 +9,12 @@ namespace HelloW
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Wello World!");
-            Console.WriteLine(" ou ");
-            Console.WriteLine("Ola Mundo!");
+        { 
+            string nome;
+            Console.WriteLine("Ola, qual é o seu nome?");
+            nome = Console.ReadLine();
+            Console.WriteLine($"Bem vindo(a) ao mundo C# {nome}!");
+            
         }
     }
 }
